@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>خدمات اختبار اختراق - Mohammad Kmail</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Cairo', sans-serif;
+      background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kali_Linux_2021.1_logo.svg/1200px-Kali_Linux_2021.1_logo.svg.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    header {
+      background: rgba(0,0,0,0.85);
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    nav {
+      text-align: center;
+      background: #111;
+      padding: 10px;
+    }
+    nav a {
+      color: #0ff;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    section {
+      padding: 30px;
+      background: rgba(0,0,0,0.6);
+      margin: 20px;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #0ff;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    .contact {
+      background: #111;
+      text-align: center;
+      padding: 20px;
+    }
+    .contact p {
+      margin: 5px 0;
+    }
+    footer {
+      background: #000;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mohammad Kmail</h1>
+    <p>هاكر أخلاقي | خبير أمن سيبراني</p>
+  </header>
+
+  <nav>
+    <a href="index.html">الرئيسية</a>
+    <a href="services.html">الخدمات</a>
+    <a href="about.html">من نحن</a>
+    <a href="contact.html">اتصل بنا</a>
+    <a href="blog.html">مدونة</a>
+    <a href="faq.html">الأسئلة الشائعة</a>
+  </nav>
+
+  <section id="home">
+    <h2>مرحبًا بك في عالم الأمان السيبراني</h2>
+    <p>
+      نقدم خدمات احترافية في مجال الأمن السيبراني لمساعدتك في حماية نفسك من الهجمات الإلكترونية واسترجاع حساباتك وتأمين بياناتك.
+    </p>
+  </section>
+
+  <section id="services">
+    <h2>الخدمات</h2>
+    <ul>
+      <li>المساعدة في قضايا الابتزاز الإلكتروني</li>
+      <li>حماية المواقع الإلكترونية والسيرفرات</li>
+      <li>استرجاع الحسابات المخترقة (فيسبوك، إنستغرام، إيميل...)</li>
+      <li>اختبار اختراق أخلاقي شامل</li>
+    </ul>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>اتصل بنا</h2>
+    <p>رقم الهاتف: <strong>+970-xxx-xxxxxx</strong></p>
+    <p>الاسم: Mohammad Kmail</p>
+    <p>Email: example@email.com</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Mohammad Kmail. جميع الحقوق محفوظة.
+  </footer>
+</body>
+</html>
